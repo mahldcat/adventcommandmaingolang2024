@@ -20,7 +20,7 @@ func main() {
 
 	bearerToken, err := getBearerToken()
 	if err != nil {
-		fmt.Printf("Error getting bearer token: %w", err)
+		fmt.Println("Error getting bearer token", err)
 		os.Exit(-1)
 	}
 
@@ -29,8 +29,7 @@ func main() {
 	data, err := fetcher.FetchDay1Data()
 
 	if err != nil {
-		err := fmt.Errorf("Error Fetching data: %w", err)
-		fmt.Println(err)
+		fmt.Println("Error on Data Fetch", err)
 		return
 	}
 
