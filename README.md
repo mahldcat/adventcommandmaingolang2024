@@ -1,1 +1,3 @@
-This is the driver/exe app for the Advent of Code 2024 (will handle taking the session string, making the call to AOC to fetch the data, and will call the day to day challenges
+#Advent of Code 2024 driver
+This is a command line app that will make the necessary calls to fetch data from Advent of Code, parse the data, and execute one of the day's solutions
+The actual data fetch code and daily solutions can be found here: https://github.com/mahldcat/adventlibgolang2024)
