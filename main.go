@@ -42,6 +42,7 @@ func getDataFetcher() inputfetcher.DataFetcher {
 
 var dailyHandlers = map[int]func(inputfetcher.DataFetcher){
 	1: HandleDay1Solution, //in day1solnhandler
+	4: HandleDay4Solution,
 }
 
 func main() {
