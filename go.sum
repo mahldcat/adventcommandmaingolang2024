@@ -4,3 +4,11 @@ github.com/mahldcat/adventlibgolang2024 v0.0.0-20241204234458-5057a0c3af66 h1:N/
 github.com/mahldcat/adventlibgolang2024 v0.0.0-20241204234458-5057a0c3af66/go.mod h1:8FiLHt8ywJ0LZepAMFvUI7hv27dr9ysVBV3liUhx/mI=
 github.com/mahldcat/adventlibgolang2024 v0.4.1 h1:I/mLvdcMFVlO67x98xC90VZ0JHnrPkPfkKYFB09FuUs=
 github.com/mahldcat/adventlibgolang2024 v0.4.1/go.mod h1:8FiLHt8ywJ0LZepAMFvUI7hv27dr9ysVBV3liUhx/mI=
+github.com/mahldcat/adventlibgolang2024 v0.5.0 h1:rSMgvpKkAl6hf+ANhlLsXpJe4OEgEaV/UKA0SqSzbzU=
+github.com/mahldcat/adventlibgolang2024 v0.5.0/go.mod h1:8FiLHt8ywJ0LZepAMFvUI7hv27dr9ysVBV3liUhx/mI=
+github.com/mahldcat/adventlibgolang2024 v0.6.0 h1:lVIb0DmOl6VJIO0fcPspo92LaAUGKTFppTFKjjRBQD0=
+github.com/mahldcat/adventlibgolang2024 v0.6.0/go.mod h1:8FiLHt8ywJ0LZepAMFvUI7hv27dr9ysVBV3liUhx/mI=
+github.com/mahldcat/adventlibgolang2024 v0.6.1 h1:5hWhDbdsRtqQfUPEEeh1fr8FuESG4yVnxpie67WXaDI=
+github.com/mahldcat/adventlibgolang2024 v0.6.1/go.mod h1:8FiLHt8ywJ0LZepAMFvUI7hv27dr9ysVBV3liUhx/mI=
+github.com/mahldcat/adventlibgolang2024 v0.6.2 h1:UqgC8s56p1++RLrMXuyRyBRAyzEh1hQSiTSKpJ7u/eU=
+github.com/mahldcat/adventlibgolang2024 v0.6.2/go.mod h1:8FiLHt8ywJ0LZepAMFvUI7hv27dr9ysVBV3liUhx/mI=
