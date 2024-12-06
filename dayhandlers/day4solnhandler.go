@@ -1,4 +1,4 @@
-package main
+package dayhandlers
 
 import (
 	"fmt"
@@ -9,7 +9,7 @@ import (
 )
 
 func HandleDay4Solution(fetcher inputfetcher.DataFetcher) {
-	wordSearch, err := fetcher.FetchDay4Data()
+	wordSearch, err := fetcher.GetDataByDay(4)
 
 	if err != nil {
 		fmt.Println("Error on Data Fetch", err)

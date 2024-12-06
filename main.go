@@ -5,6 +5,7 @@ import (
 	"os"
 	"strconv"
 
+	"github.com/mahldcat/adventcommandmaingolang2024/dayhandlers"
 	"github.com/mahldcat/adventlibgolang2024/inputfetcher"
 )
 
@@ -41,8 +42,9 @@ func getDataFetcher() inputfetcher.DataFetcher {
 }
 
 var dailyHandlers = map[int]func(inputfetcher.DataFetcher){
-	1: HandleDay1Solution, //in day1solnhandler
-	4: HandleDay4Solution,
+	1: dayhandlers.HandleDay1Solution, //in day1solnhandler
+	4: dayhandlers.HandleDay4Solution,
+	5: dayhandlers.HandleDay5olution
 }
 
 func main() {
