@@ -8,7 +8,7 @@ import (
 	"github.com/mahldcat/adventlibgolang2024/inputfetcher"
 )
 
-func HandleDay5olution(fetcher inputfetcher.DataFetcher) {
+func HandleDay5Solution(fetcher inputfetcher.DataFetcher) {
 	rawData, err := fetcher.GetDataByDay(5)
 
 	if err != nil {

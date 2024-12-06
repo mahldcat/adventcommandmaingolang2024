@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mahldcat/adventlibgolang2024/day4"
+	"github.com/mahldcat/adventlibgolang2024/day6"
 	"github.com/mahldcat/adventlibgolang2024/inputfetcher"
 )
 
@@ -16,9 +16,9 @@ func HandleDay6Solution(fetcher inputfetcher.DataFetcher) {
 		os.Exit(-2)
 	}
 
-	sln := day4.SolveDay4Part1(rawData)
+	sln := day6.SolveDay6Part1(rawData)
 	fmt.Printf("Day 6.1 Solution: %d\n", sln)
 
-	sln = day4.SolveDay4Part2(rawData)
+	sln = day6.SolveDay6Part2(rawData)
 	fmt.Printf("Day 6.2 Solution: %d\n", sln)
 }
